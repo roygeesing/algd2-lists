@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" tests="11" skipped="0" failures="1" errors="0" timestamp="2022-02-28T09:31:09" hostname="LAPTOP-UPI5PUTL" time="0.028">
+  <properties/>
+  <testcase name="remove3_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.006"/>
+  <testcase name="remove1_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove5_Number1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove_WhenDuplicatesExist_OnlyFirstOccurance" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.004">
+    <failure message="java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;5&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;5&gt;
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:834)
+	at org.junit.Assert.assertEquals(Assert.java:118)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at ch.fhnw.algd2.collections.list.linkedlist.general.AbstractMyLinkedListTest.checkOrderDependentOccurrence(AbstractMyLinkedListTest.java:51)
+	at ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove.remove_WhenDuplicatesExist_OnlyFirstOccurance(C_MyLinkedListTest_Remove.java:82)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</failure>
+  </testcase>
+  <testcase name="remove10_EmptyList_NoCollectionChanges" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove4_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove2_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove10_Numbers1To5Added_NoCollectionChanges" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove_SeparateButEqualObjects_WillBeRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove_removeLastElement_CanAddToEndOfListAfterwards" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove_removeOnlyElement_CanAddToEndOfListAfterwards" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

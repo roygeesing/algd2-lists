@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-03T06:16:44" hostname="LAPTOP-UPI5PUTL" time="0.007">
+  <properties/>
+  <testcase name="isEmpty_OnEmptyList_True" classname="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add" time="0.001"/>
+  <testcase name="add_Numbers1To5_AllNumbersAdded" classname="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add" time="0.003"/>
+  <testcase name="add_AddDuplicates_AllNumbersAdded" classname="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

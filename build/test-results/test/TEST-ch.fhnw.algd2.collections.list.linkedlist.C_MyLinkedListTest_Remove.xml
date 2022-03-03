@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-03-03T06:16:44" hostname="LAPTOP-UPI5PUTL" time="0.029">
+  <properties/>
+  <testcase name="remove3_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove1_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove5_Number1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove_WhenDuplicatesExist_OnlyFirstOccurance" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.004"/>
+  <testcase name="remove10_EmptyList_NoCollectionChanges" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove4_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove2_Numbers1To5Added_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove10_Numbers1To5Added_NoCollectionChanges" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove_SeparateButEqualObjects_WillBeRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.002"/>
+  <testcase name="remove_removeLastElement_CanAddToEndOfListAfterwards" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <testcase name="remove_removeOnlyElement_CanAddToEndOfListAfterwards" classname="ch.fhnw.algd2.collections.list.linkedlist.C_MyLinkedListTest_Remove" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

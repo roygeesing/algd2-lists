@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-02-28T09:30:33" hostname="LAPTOP-UPI5PUTL" time="0.015">
+  <properties/>
+  <testcase name="contains_NullWhenNullAdded_True" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.004"/>
+  <testcase name="add_Null_NullAdded" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.001"/>
+  <testcase name="remove_NullIfNotExists_False" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.001"/>
+  <testcase name="contains2_NullValueInList_False" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.001"/>
+  <testcase name="checkAddingAndRemovingNull_ListWithNumbers1To5_NullAddedAndRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.001"/>
+  <testcase name="contains_elementAfterNull_true" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.001"/>
+  <testcase name="removeTwo_NullValueInList_False" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.001"/>
+  <testcase name="removeTwo_NullValueInListNotHead_False" classname="ch.fhnw.algd2.collections.list.linkedlist.E_MyLinkedListTest_SupportingNull" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

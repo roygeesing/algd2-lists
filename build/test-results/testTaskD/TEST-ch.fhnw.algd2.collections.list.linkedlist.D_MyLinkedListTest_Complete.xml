@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" tests="29" skipped="0" failures="0" errors="0" timestamp="2022-02-28T09:20:02" hostname="LAPTOP-UPI5PUTL" time="0.05">
+  <properties/>
+  <testcase name="add_Numbers1To5AtLastIndexInSequenceFollowedByAdd_NumbersInAscendingOrder" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.004"/>
+  <testcase name="get_NegativeIndex_IndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="remove_NegativeIndex_IndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="remove_Index0WhenNumbers1To5Added_Element1Removed" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.0"/>
+  <testcase name="remove_ElementAtIndex2WhenNumbers1To4Added_Element3Removed" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="remove_TooLargeIndex_ThrowIndexOutOfBounds" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="add_Numbers1To5_AddedInOrder" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.002"/>
+  <testcase name="removeElementByIndex_EqualElementBeforeInList_SecondElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="add_Number1FollowedByAdd_NumbersInAscendingOrder" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="get_OnIndex0InEmptyList_IndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="get_FirstIndex_FirstElement" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="remove_ElementAtLastIndexWhenNumbers1To5Added_Element5Removed" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.0"/>
+  <testcase name="add_Numbers1To5AtIndex_NumbersInAscendingOrder" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.002"/>
+  <testcase name="remove_ExistingElementAtHead_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="add_Numbers1To5AtIndex0To4InSequence_NumbersInAscendingOrder" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="add_NegativeIndex_ThrowIndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.003"/>
+  <testcase name="add_WayTooLargeIndex_ThrowIndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="get_Index5OnListWith5Elements_IndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="remove_ExistingElementAtTail_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="add_TooLargeIndex_ThrowIndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="get_Index20OnListWith5Elements_IndexOutOfBoundsException" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.0"/>
+  <testcase name="remove_removeLastElement_CanAddToEndOfListAfterwards" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="get_MiddleIndex_MiddleElement" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="remove_ExistingElementInBetween_ElementRemoved" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="add_Numbers5To1AtIndex0InSequence_NumbersInAscendingOrder" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="remove_removeOnlyElement_CanAddToEndOfListAfterwards" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <testcase name="get_LastIndex_LastElement" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.002"/>
+  <testcase name="add_ElementAtIndex2_AddedAtIndex2" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.0"/>
+  <testcase name="add_Numbers1To5AtLastIndexInSequence_NumbersInAscendingOrder" classname="ch.fhnw.algd2.collections.list.linkedlist.D_MyLinkedListTest_Complete" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

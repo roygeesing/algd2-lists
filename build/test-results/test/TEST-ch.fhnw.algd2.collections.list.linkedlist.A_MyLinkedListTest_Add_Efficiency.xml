@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add_Efficiency" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-03T06:16:43" hostname="LAPTOP-UPI5PUTL" time="0.098">
+  <properties/>
+  <testcase name="add_Efficiency_Constant" classname="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add_Efficiency" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

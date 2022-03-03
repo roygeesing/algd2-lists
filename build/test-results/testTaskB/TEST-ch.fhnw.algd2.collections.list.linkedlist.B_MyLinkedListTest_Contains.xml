@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-02-28T09:09:22" hostname="LAPTOP-UPI5PUTL" time="0.015">
+  <properties/>
+  <testcase name="contains10_Numbers1To5Added_False" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.004"/>
+  <testcase name="contains1_Numbers1To5Added_True" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.001"/>
+  <testcase name="contains5_Numbers1To5Added_True" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.001"/>
+  <testcase name="contains_NullAsParameter_FalseOrNullpointer" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.001"/>
+  <testcase name="contains_OnEmptyList_False" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.001"/>
+  <testcase name="contains_SeparateButEqualObjects_WillBeFound" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.001"/>
+  <testcase name="contains3_Numbers1To5Added_True" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.001"/>
+  <testcase name="contains_StringAsParameterForEmptyIntegerList_FalseOrClassCastException" classname="ch.fhnw.algd2.collections.list.linkedlist.B_MyLinkedListTest_Contains" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
